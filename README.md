@@ -1,5 +1,5 @@
 # Encephalo Investments - Quantitative Developer Pre-Test
-## Siddhanth Deepak 
+## Siddhanth Deepak
 
 # Part 1: git
 - fork this repository
